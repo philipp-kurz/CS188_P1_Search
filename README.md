@@ -6,3 +6,6 @@ The code is based on skeleton code from the class. Project was completed using t
 ---
 
 Pacman using A* Search with Manhattan heuristic to find its path through the maze to the food pellet.
+
+
+![188_p1](https://user-images.githubusercontent.com/54779918/83334617-03ca0c80-a2a8-11ea-9dae-81d76e73a2c7.gif)
